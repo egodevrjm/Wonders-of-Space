@@ -4,4 +4,4 @@ A SwiftUI project listing solar system objects. Created as an expirement in buil
 Includes SpaceModel used as data source.
 
 
-Image Source: [[NASA][https://images.nasa.gov]]
+Image Source: [NASA](https://images.nasa.gov)
